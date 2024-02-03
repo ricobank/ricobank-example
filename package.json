@@ -1,0 +1,18 @@
+{
+  "name": "ricobank-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@etherpacks/dpack": "^0.0.31",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.19.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
